@@ -1,5 +1,6 @@
 Pseudo codi:
-INICI
+
+    INICI
 
     DEFINIR primerarray COM ARRAY DE 5 ENTERS
     DEFINIR segonarray COM ARRAY DE 5 ENTERS
@@ -34,4 +35,4 @@ INICI
         ESCRIURE arrayresultat[i], " "
     FI_PER
 
-FINAL
+    FINAL
